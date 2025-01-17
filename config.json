@@ -1,14 +1,14 @@
 {
-  "PAGE_ACCESS_TOKEN": "EAANUHLtI0ZCcBOZClzIcxDa7SwlLKVuww4MsT9Sjy70uXiiEPTgTxikSvfF9vwbwAulCnZCj20f4FANOsqEYAd9GNKPVSaL0oXAeWJPv6tFJa1zcURsH8i3EWOIrOuUGKrFry1ZCH0TeV4DEUFeZCvFGuGnARMpXFfQqx07LnkWUVYrfm1MwF9yZAR44daxf2y",
-  "VERIFY_TOKEN": "uzuki",
+  "PAGE_ACCESS_TOKEN": "EAAZAqHuSVZCiwBO6HGQ761evIEUxi1ArFZCX2WPQtbK3n9B5Q5DKlRkZBIZAPlrZB47zisLGufSCUsGe1Gn753IfdlyDcuvBwDl53Ji55ubd43z6AW5SbqlHZBlT02ZCm0YSsryEoJCP6EqgATImW7DkSE0nODvsjFphjoJMD6dAp9Iy8zAyZCDCJ0flv1uY6tIVu",
+  "VERIFY_TOKEN": "nelzy",
   "ADMINS": [
-    ""
+    "100071157053751"
   ],
-  "BOTNAME": "Uzuki Mikata",
+  "BOTNAME": "Coffeai",
   "PREFIX": "/",
   "THEME_SETUP": {
     "THEME": "Fiery",
-    "ADMIN": "XyryllPanget",
+    "ADMIN": "nelzy",
     "TITLE": "Uzuki Mikata",
     "HTML": [
       "#CE2F16",
